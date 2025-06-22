@@ -1,5 +1,3 @@
-# wooCommerce
-# -WP-Advanced-CMS-Plugin-Theme-Integration
 # WP-Advanced CMS Plugin & Theme Integration 🧩
 
 A custom WordPress theme developed from scratch alongside a fully functional custom plugin to manage dynamic content sections. This project demonstrates proficiency in WordPress theme hierarchy, PHP templating, plugin development, WooCommerce integration basics, and core CMS architecture using WordPress.
